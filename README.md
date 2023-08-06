@@ -14,11 +14,11 @@ Machine Learning Engineer & Web Dev. Bridging the gap between data science and s
 ## 🎓 Education
 
 - **MSc in Big Data Science**  
-  *Queen Mary Uni, London, UK*  
+  *Queen Mary University of London, London, UK*  
   `Expected: 09/2023`
 
 - **B.Tech in Bioinformatics**  
-  *SASTRA Uni, India*  
+  *SASTRA University, India*  
   `GPA 7.8/10 | 2017-2021`
 
 ## 🛠 Skills

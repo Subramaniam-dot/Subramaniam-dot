@@ -1,6 +1,6 @@
 # Subramaniam S. Murugesan
 
-📍 **London**  
+📍 **London**, UK  
 📧 **Email**: [subramaniamsmurugesan@gmail.com](mailto:subramaniamsmurugesan@gmail.com)  
 📞 **Phone**: +447769051356  
 

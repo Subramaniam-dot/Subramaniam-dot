@@ -1,36 +1,45 @@
-# Subramaniam Subramanian Murugesan
+# Subramaniam S. Murugesan
 
-Flat 11A Aspire point, 210 High Street, United Kingdom E15 2ZL  
-Email: subramaniamsmurugesan@gmail.com  
-Phone: +447769051356  
-[Github](https://github.com/Subramaniam-dot) | [LinkedIn](https://www.linkedin.com/in/subramaniam-s-m/)  
+📍 **Flat 11A Aspire Point**, 210 High Street, E15 2ZL, UK  
+📧 **Email**: [subramaniamsmurugesan@gmail.com](mailto:subramaniamsmurugesan@gmail.com)  
+📞 **Phone**: +447769051356  
 
-## Summary
+[![GitHub Badge](https://img.shields.io/badge/Github-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Subramaniam-dot)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subramaniam-s-m/)
 
-Machine Learning Engineer and Software Developer with proficiency in TensorFlow, PyTorch, HTML, CSS, JavaScript (React, Angular), Flask, SQLite, MongoDB, Flask-restful, and GraphQL. Passionate about making ML accessible and connecting with AI enthusiasts. Seeking opportunities to contribute significantly to AI and machine learning as well as frontend and backend development.
+## 🚀 About Me
 
-## Education
+Machine Learning Engineer & Web Dev. Bridging the gap between data science and software with TensorFlow, PyTorch, and modern web frameworks.
 
-- **MSc in Big Data Science**, Queen Mary University of London, UK (Expected: 09/2023)
-- **B.Tech in Bioinformatics** – SASTRA University, India (GPA 7.8/10) (2017-2021)
+## 🎓 Education
 
-## Skills
+- **MSc in Big Data Science**  
+  *Queen Mary Uni, London, UK*  
+  `Expected: 09/2023`
 
-- **Frontend**: HTML, CSS, JavaScript, React, Angular
-- **Backend**: Flask
-- **Database**: SQLite, MongoDB
-- **APIs**: Flask-restful, GraphQL
-- **ML & Cloud Computing**: TensorFlow, PyTorch, Transformers, CNNs, AWS, EC2, S3, EKS, Fargate, Docker, Kubernetes
+- **B.Tech in Bioinformatics**  
+  *SASTRA Uni, India*  
+  `GPA 7.8/10 | 2017-2021`
 
-## Experience
+## 🛠 Skills
 
-- **Programmer Analyst Trainee**, Cognizant Technology Solutions, Chennai, India (04/2021-06/2022)
-    - Developed web apps using C# in .NET, implemented RESTful APIs, improved app functionality, worked with MongoDB, managed support tickets.
+`TensorFlow` `PyTorch` `React` `Angular` `Flask` `SQLite` `MongoDB` `AWS` `Docker` `Kubernetes`
 
-- **Machine Learning Fellow**, Fellowship.AI (Launchpad.AI), London, UK, Remote (01/2023-05/2023)
-    - Worked on implementing Stable Diffusion Models, Image and Mask Segmentation, and Detectron2 for Boundary Box Annotations.
+## 💼 Experience
 
-## Projects
+- **Cognizant Technology Solutions**  
+  *Programmer Analyst Trainee*  
+  `04/2021-06/2022`
 
-- [**Custom Architecture CNN on CIFAR 10**](https://subramaniam-dot.github.io/CIFAR10-Classification/)
-- [**Text Analyser**](https://subramaniam-dot.github.io/text_analyser/): Built with Python, Flask, Google Natural Language V1, and Perspective APIs.
+- **Fellowship.AI (Launchpad.AI)**  
+  *Machine Learning Fellow*  
+  `01/2023-05/2023`
+
+## 🌟 Projects
+
+- [**CNN on CIFAR 10**](https://subramaniam-dot.github.io/CIFAR10-Classification/)
+- [**Text Analyser**](https://subramaniam-dot.github.io/text_analyser/)
+
+---
+
+👋 [Reach out to me!](mailto:subramaniamsmurugesan@gmail.com) Always eager to connect with fellow tech enthusiasts.

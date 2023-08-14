@@ -22,10 +22,12 @@ Machine Learning Engineer & Web Dev. Bridging the gap between data science and s
   `GPA 7.8/10 | 2017-2021`
 
 ## 🛠 Skills
-
+### Skills 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON
-</p>
+ICON ICON ICON ICON ICON ICON ICON ICON ICON 
+                    </p>
+                    
+
 ## 💼 Experience
 
 - **Cognizant Technology Solutions**  

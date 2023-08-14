@@ -23,8 +23,9 @@ Machine Learning Engineer & Web Dev. Bridging the gap between data science and s
 
 ## 🛠 Skills
 
-`TensorFlow` `PyTorch` `React` `Angular` `Flask` `SQLite` `MongoDB` `AWS` `Docker` `Kubernetes`
-
+<p align="left">
+ICON ICON ICON ICON ICON ICON ICON ICON ICON
+</p>
 ## 💼 Experience
 
 - **Cognizant Technology Solutions**  

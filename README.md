@@ -48,7 +48,7 @@ Machine Learning Engineer & Web Dev. Bridging the gap between data science and s
 
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON
+[ICON](https://www.python.org/) ICON ICON ICON ICON ICON ICON ICON ICON
 </p>
 
 

@@ -39,10 +39,7 @@ Machine Learning Engineer & Web Dev. Bridging the gap between data science and s
   *Machine Learning Fellow*  
   `01/2023-05/2023`
 
-## 🌟 Projects
 
-- [**CNN on CIFAR 10**](https://subramaniam-dot.github.io/CIFAR10-Classification/)
-- [**Text Analyser**](https://subramaniam-dot.github.io/text_analyser/)
 
 ---
 

@@ -15,7 +15,7 @@ Machine Learning Engineer & Web Dev. Bridging the gap between data science and s
 
 - **MSc in Big Data Science**  
   *Queen Mary University of London, London, UK*  
-  `Expected: 09/2023`
+  `Distinction | 2022 - 2023`
 
 - **B.Tech in Bioinformatics**  
   *SASTRA University, India*  

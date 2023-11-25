@@ -29,18 +29,6 @@ Machine Learning Engineer & Web Dev. Bridging the gap between data science and s
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
-## 💼 Experience
-
-- **Cognizant Technology Solutions**  
-  *Programmer Analyst Trainee*  
-  `04/2021-06/2022`
-
-- **Fellowship.AI (Launchpad.AI)**  
-  *Machine Learning Fellow*  
-  `01/2023-05/2023`
-
-
-
 ---
 
 👋 [Reach out to me!](mailto:subramaniamsmurugesan@gmail.com) Always eager to connect with fellow tech enthusiasts.

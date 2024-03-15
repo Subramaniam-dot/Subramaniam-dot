@@ -1,4 +1,4 @@
-# Subramaniam S. Murugesan
+# Subramaniam Subramanian Murugesan
 
 📍 **London**  
 📧 **Email**: [subramaniamsmurugesan@gmail.com](mailto:subramaniamsmurugesan@gmail.com)  

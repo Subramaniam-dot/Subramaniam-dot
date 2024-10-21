@@ -18,6 +18,10 @@ If you’re curious about AI, machine learning, or just want to exchange notes o
 
 ## 🎓 Education
 
+- **PhD in Electronic Engineering**  
+  *Queen Mary University of London, London, UK*  
+  `2024 - 2028`
+
 - **MSc in Big Data Science**  
   *Queen Mary University of London, London, UK*  
   `Distinction | 2022 - 2023`
@@ -32,6 +36,10 @@ If you’re curious about AI, machine learning, or just want to exchange notes o
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 
 
 ---
